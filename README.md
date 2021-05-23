@@ -2,5 +2,5 @@ This is Web app created using Ml algorithms like the  Random Forest Classfier an
 
 Contributor list - 
 [Aayush](https://github.com/Aayush452-cell)
-[Pankaj]()
-[Amritesh]()
+[Pankaj](https://github.com/pankaz20)
+[Amritesh](https://github.com/amritesh19)
